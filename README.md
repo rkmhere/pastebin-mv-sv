@@ -1,7 +1,6 @@
 # pastebin-mv-sv
 
-# This file is personal and not for any other use. 
-# This is a test application created for myself. 
-
+# Application for Test 
+Not for commercial or other uses. 
 
 Thanks 
